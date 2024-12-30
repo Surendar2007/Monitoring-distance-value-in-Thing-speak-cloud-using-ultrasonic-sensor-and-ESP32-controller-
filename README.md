@@ -96,8 +96,20 @@ Prototype and build IoT systems without setting up servers or developing web sof
 
  
 # PROGRAM:
+ 
+ ![Screenshot 2024-12-30 194754](https://github.com/user-attachments/assets/c319b9ec-3728-429a-84c5-0ec6c128d549)
+
+
 # CIRCUIT DIAGRAM:
+
+ ![Screenshot 2024-12-30 194811](https://github.com/user-attachments/assets/49c2d491-b849-4e3a-a41b-5fe85b808c7b)
+
+ 
 # OUTPUT:
+
+ ![Screenshot 2024-12-30 194823](https://github.com/user-attachments/assets/2593aeb7-8d93-46cd-bea5-8ce13f65ce2a)
+
+ 
 # RESULT:
 Thus the distance values are updated in the Thing speak cloud using ESP32 controller.
 
